@@ -10,3 +10,4 @@ coverage
 *.sh
 *.gem
 Gemfile.lock
+.idea/
